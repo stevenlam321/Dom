@@ -1,0 +1,16 @@
+{
+    "name": "stevenlam123/dom",
+    "description": "Enhancement to the PHP DOMDocument functionality",
+    "type": "library",
+    "require": {
+        "php": ">=7.0.0",
+        "phpunit/phpunit": "^6.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Steven Lam",
+            "email": "stevenlam123@yahoo.com.hk"
+        }
+    ]
+}
