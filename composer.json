@@ -2,7 +2,6 @@
     "name": "stevenlam123/dom",
     "description": "Enhancement to the PHP DOMDocument functionality",
     "type": "library",
-    "version": "2.0.1",
     "license": "MIT",
     "authors": [
         {
